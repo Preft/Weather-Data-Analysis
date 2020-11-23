@@ -1,0 +1,91 @@
+@media (min-width: 768px) and (max-width: 991px) {
+    /*//////////////////////////////////////////////////////////////////////*/
+    /*/////////////////////// Index-main /////////////////////////////*/
+    /*//////////////////////////////////////////////////////////////////////*/
+    .index-vis-image {
+        display: inline-block;
+        align-items: center;
+    }
+    #index-Fig-vis-1{
+        height: 100px;
+        width: 24.5%;
+        float: none;
+        margin-right: 0px !important;
+    }
+    #index-Fig-vis-2{
+        height: 100px;
+        width: 24.5%;
+    }
+    #index-Fig-vis-3{
+        height: 100px;
+        width: 24.5%;
+        float: none;
+    }
+    #index-Fig-vis-4{
+        height: 100px;
+        width: 24.5%;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    
+    /*//////////////////////////////////////////////////////////////////////*/
+    /*/////////////////////// comparisons-Page /////////////////////////////*/
+    /*//////////////////////////////////////////////////////////////////////*/
+ 
+    #comparisons-Fig-vis-1{
+        height: 100%;
+        width: 100%;
+        margin-right: 0px !important;
+        float: none;
+    }
+    #comparisons-Fig-vis-2{
+        height: 100%;
+        width: 100%;
+    }
+    #comparisons-Fig-vis-3{
+        height: 100%;
+        width: 100%;
+        float: none;
+    }
+    #comparisons-Fig-vis-4{
+        height: 100%;
+        width: 100%;
+    }
+    
+    .comparisons-vis-image img{
+        height: 100%;
+        width: 100%;
+    }
+}
+@media (min-width: 20px) and (max-width: 575px) {
+
+    /*//////////////////////////////////////////////////////////////////////*/
+    /*/////////////////////// comparisons-Page /////////////////////////////*/
+    /*//////////////////////////////////////////////////////////////////////*/
+
+    #comparisons-Fig-vis-1{
+        height: 100%;
+        width: 100%;
+        margin-right: 0px !important;
+        float: none;
+    }
+    #comparisons-Fig-vis-2{
+        height: 100%;
+        width: 100%;
+    }
+    #comparisons-Fig-vis-3{
+        height: 100%;
+        width: 100%;
+        float: none;
+    }
+    #comparisons-Fig-vis-4{
+        height: 100%;
+        width: 100%;
+    }
+    
+    .comparisons-vis-image img{
+        height: 100%;
+        width: 100%;
+    }
+}

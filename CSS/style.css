@@ -1,0 +1,203 @@
+/* All */
+body {
+    background-color: black;
+}
+p{
+    color: green;
+}
+a:hover{
+    background-color: green;
+    color: white;
+}
+/*//////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////// Header /////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////*/
+.navbar-nav a:hover{
+    background-color: green;
+    color: white !important;
+}
+
+.mr-auto{
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+.navbar {
+    background-color: white !important;
+    width: 100%;
+}
+
+.navbar-nav a:hover{
+    background-color: green;
+    color: white;
+}
+.navbar-brand {
+    color: white !important;
+    background-color: black;
+    padding: 11px;
+}
+.nav-container {
+    padding-left: 10%;
+}
+.header-right {
+    float: right;
+    width: 50%;
+}
+.header-left {
+    float: left;
+    width: 50%;
+}
+.btn-right{
+    float: right;
+    width: 50px;
+    align-items: center;
+}
+/*//////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////// Index-main /////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////*/
+
+.content-container {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.sec-cont-container{
+    margin-top: 20px;
+}
+
+/*Index-sum and visItems*/
+
+.index-hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/*Index-sum Items*/
+.index-sum {
+    background-color: white;
+    padding: 20px;
+}
+
+.index-img{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.index-sum h2{
+    text-align: center;
+    color: green;
+}
+
+/*Index-vis Items*/
+
+.index-vis {
+    background-color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.index-vis h2{
+    text-align: center;
+    color: green;
+}
+
+#index-Fig-vis-1{
+    height: 50%;
+    width: 50%;
+    margin-right: 0px !important;
+    float: right;
+}
+#index-Fig-vis-2{
+    height: 50%;
+    width: 50%;
+}
+#index-Fig-vis-3{
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+#index-Fig-vis-4{
+    height: 50%;
+    width: 50%;
+}
+
+.index-vis-image img{
+    height: 100%;
+    width: 100%;
+}
+
+/*//////////////////////////////////////////////////////////////////////*/
+/*/////////////////////// comparisons-Page /////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////*/
+
+.comparisons-vis {
+    border: 2px solid green;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.comparisons-vis h2{
+    text-align: center;
+    color: green;
+}
+
+#comparisons-Fig-vis-1{
+    height: 50%;
+    width: 50%;
+    margin-right: 0px !important;
+    float: right;
+}
+#comparisons-Fig-vis-2{
+    height: 50%;
+    width: 50%;
+}
+#comparisons-Fig-vis-3{
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+#comparisons-Fig-vis-4{
+    height: 50%;
+    width: 50%;
+}
+
+.comparisons-vis-image img{
+    height: 100%;
+    width: 100%;
+}
+
+/*//////////////////////////////////////////////////////////////////////*/
+/*/////////////////////// comparisons-Page /////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////*/
+
+.select-visual-img {
+    width: 100%;
+}
+
+.select-visual-text {
+    text-align: center;
+    padding: 10px;
+}
+/*//////////////////////////////////////////////////////////////////////*/
+/*////////////////////////////// Data-Page /////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////*/
+.comparisons-vis {
+    background-color: white;
+}
+table.center {
+    text-align: center;
+  }
+
+  .table-pad {
+    padding: 20px;
+  }
+
+  tr:hover{
+      color: white !important;
+      background-color: green !important;
+  }
