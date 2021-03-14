@@ -5,4 +5,4 @@ A Webpage that shows different plots of weather data.
 https://preft.github.io/Weather-Data-Analysis/
 
 ### Visual:
-![](images/WeatherAnalysisDisplay.png)
+![](Resources/assets/images/WeatherAnalysisDisplay.png)
